@@ -7,10 +7,6 @@
       "root": "",
       "sourceRoot": "src",
       "projectType": "application",
-      "schematics": {
-        "@schematics/angular:component": {
-          "style": "scss"
-        },
       "prefix": "app",
       "schematics": {},
       "architect": {
